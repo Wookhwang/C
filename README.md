@@ -1,2 +1,1 @@
-# C
-C code
+#dining philosophers problem in c using pthread
